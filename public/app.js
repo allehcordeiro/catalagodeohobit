@@ -12,7 +12,7 @@ const PRODUCTS = [
     description: "Para quem quer colecionar o melhor da coleção com uma experiência mais especial.",
     price: 3100,
     stock: 3,
-    image: "collector.webp"
+    image: "assets/collector.webp"
   },
   {
     id: "booster",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     description: "Ideal para quem quer abrir muitos boosters e mergulhar de vez na coleção.",
     price: 1230,
     stock: 4,
-    image: "booster.webp"
+    image: "assets/booster.webp"
   },
   {
     id: "bundle",
@@ -32,7 +32,7 @@ const PRODUCTS = [
     description: "Uma opção querida para curtir a coleção de forma prática, bonita e especial.",
     price: 430,
     stock: 6,
-    image: "bundle.webp"
+    image: "assets/bundle.webp"
   },
   {
     id: "kit-pre",
@@ -42,7 +42,7 @@ const PRODUCTS = [
     description: "Perfeito para entrar no clima do lançamento e viver a experiência da coleção.",
     price: 250,
     stock: 8,
-    image: "kit-pre.webp"
+    image: "assets/kit-pre.webp"
   }
 ];
 
