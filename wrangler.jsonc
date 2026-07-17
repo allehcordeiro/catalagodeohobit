@@ -1,8 +1,0 @@
-{
-  "name": "catalogo-hobbit-mesao-do-amor",
-  "compatibility_date": "2026-07-16",
-  "assets": {
-    "directory": "./public",
-    "not_found_handling": "single-page-application"
-  }
-}
